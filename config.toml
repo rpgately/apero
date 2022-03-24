@@ -1,4 +1,4 @@
-baseURL = "https://elegant-puppy-5df4aa.netlify.app/"
+baseURL = "medicaltables.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
